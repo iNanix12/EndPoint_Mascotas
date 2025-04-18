@@ -1,0 +1,29 @@
+{
+  "mascotas": [
+    {
+      "id": "a1",
+      "nombre": "peque",
+      "tipo": "perro",
+      "edad": 7
+    },
+    {
+      "id": "a2",
+      "nombre": "Neeko",
+      "tipo": "lagarto",
+      "edad": 18
+    },
+    {
+      "id": "a3",
+      "nombre": "Sylus",
+      "tipo": "dragon",
+      "edad": 25
+    },
+    {
+      "id": "85fb",
+      "nombre": "neekoo",
+      "tipo": "lagarto",
+      "edad": 18
+    }
+  ],
+  "usuarios": []
+}
